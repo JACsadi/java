@@ -48,6 +48,7 @@ public class ArrayTest {
     for(char[] c:c2) {
         for(char c1:c) System.out.print(c1);
         System.out.println();
+        
     }
 }
 }
