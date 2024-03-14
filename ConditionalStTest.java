@@ -24,6 +24,6 @@ public class ConditionalStTest {
                     k += inChar - 48;
                 }
         }
-        System.out.println(ans);
+        System.out.println(ans);`
     }
     }
